@@ -23,7 +23,7 @@ Reaload a few times might be necessary.
 Among the key classes are *Game.ts*, *Car.ts* and *Terrain.ts* which represent most of the
 game play. Entire game is directed by *GameManager.ts* class which controls 
 the switching of screens. Lifecycle of the game is from ECS library (**pixi-ecs**) and
-physics is implemented using **mater.js** library.
+physics is implemented using **matter.js** library.
 
 
 
