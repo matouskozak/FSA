@@ -8,6 +8,15 @@ Semester project for NI-APH at CTU in Prague.
 > Arrow left - **Move Forward**<br>
 > Arrow right - **Move Backward**<br>
 
+## Deployment
+Game is deployed on Heroku: https://ni-aph-fsa.herokuapp.com/<br>
+Reaload a few times might be necessary.
+
+## Localhost
+> Install game requirements: npm install<br>
+> To run game on http://localhost:1234/: npm run start
+
+
 ## Class Diagram
 ![image info](./class_diagram.png)
 
@@ -17,11 +26,4 @@ the switching of screens. Lifecycle of the game is from ECS library (**pixi-ecs*
 physics is implemented using **mater.js** library.
 
 
-## Deployment
-Game is deployed on Heroku: https://ni-aph-fsa.herokuapp.com/<br>
-Reaload a few times might be necessary.
-
-## Localhost
-> Install game requirements: npm install<br>
-> To run game on http://localhost:1234/: npm run start
 
